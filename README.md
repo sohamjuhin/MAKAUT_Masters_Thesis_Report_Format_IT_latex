@@ -1,1 +1,1 @@
-# MAKAUT_Thesis_Report_Format_IT
+# MAKAUT_Masters_Thesis_Report_Format_IT_latex
